@@ -35,3 +35,6 @@ button {
 #name, #email {
   width: 50%;
 }
+#botTrap {
+  display: none; /*makes the field not visible to humans*/
+}
